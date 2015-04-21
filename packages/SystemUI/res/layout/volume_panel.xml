@@ -18,9 +18,9 @@
     android:id="@+id/visible_panel"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:orientation="vertical">
+    android:orientation="vertical" >
 
-    <LinearLayout
+    <FrameLayout
         android:id="@+id/slider_panel"
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
