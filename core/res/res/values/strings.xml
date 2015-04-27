@@ -5242,4 +5242,8 @@
 
     <!-- label for screen record item in phone options dialog -->
     <string name="global_action_screen_record">Screen record</string>
+
+    <!-- Silent mode -->
+    <string name="silent_mode_priority">Priority</string>
+    <string name="silent_mode_none">None</string>
 </resources>
