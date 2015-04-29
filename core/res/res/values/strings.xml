@@ -5246,7 +5246,6 @@
     <!-- Silent mode -->
     <string name="silent_mode_priority">Priority</string>
     <string name="silent_mode_none">None</string>
-me_reset_notification_body">System theme restored due to multiple app crashes</string>
 
     <!-- Notification which notifies user flashlight is enabled -->
     <string name="quick_settings_tile_flashlight_not_title">Flashlight is on</string>
